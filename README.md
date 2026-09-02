@@ -18,10 +18,10 @@ Welcome to my GitHub profile! Here you'll find my projects, experiments, and con
 
 ## 🏆 Achievements
 
-* 🟢 **Codeforces Pupil** (Max Rating: 1384)
-* ⭐ **3-Star on CodeChef**
-* 💯 Solved **1000+ DSA problems**
-* 🥇 Winner of **Codex-24 Hackathon**
+* 🟢 **Codeforces Pupil** (Max Rating: 1384) — [Profile](https://codeforces.com/profile/Gammu)
+* ⭐ **3-Star on CodeChef** — [Profile](https://www.codechef.com/users/gammu)
+* 💯 Solved **1000+ DSA problems** — [LeetCode](https://leetcode.com/u/ggxgaurav2020/)
+* 🥇 Winner of **Codex-24 Hackathon** 
   
 ---
 
