@@ -27,8 +27,8 @@ Welcome to my GitHub profile! Here you'll find my projects, experiments, and con
 
 ## 🌐 Connect with Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 📧 Email: [ggxgammu2020@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/gaurav-rawat-5b3394267/
 
 ---
 
